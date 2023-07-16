@@ -10,5 +10,9 @@ html,body {
   width: 800px;
 }
 .main-headline {
+  font-size: 4em;
   color: #fff;
+}
+.main-container p {
+  color: #ccc;
 }
